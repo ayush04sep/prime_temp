@@ -1,3 +1,4 @@
 changes in local newbranch
 changes again in local newbranch for conflicts
 testing file
+changes in remote main for conflicts

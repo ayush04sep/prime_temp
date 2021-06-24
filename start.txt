@@ -1,7 +1,3 @@
 test git ajsbfbsdh changes002
-<<<<<<< HEAD
-change in newbranch 02
-=======
-change at github 01
->>>>>>> 66e77da404a9868478ae7c4d90ae56ed76c052e8
+
 
